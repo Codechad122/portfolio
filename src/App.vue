@@ -6,5 +6,9 @@ import ProjectThree from './components/ProjectThree.vue'
 </script>
 
 <template>
-  <RouterView />
+  <header></header>
+
+  <main>
+    <RouterView />
+  </main>
 </template>

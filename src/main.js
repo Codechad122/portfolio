@@ -4,7 +4,7 @@ import { createApp } from 'vue'
 import { createPinia } from 'pinia'
 
 import App from './App.vue'
-import { createWebHistory } from 'vue-router'
+import { createWebHistory, createRouter } from 'vue-router'
 import Home from './components/Home.vue'
 import ProjectOne from './components/ProjectOne.vue'
 import ProjectTwo from './components/ProjectTwo.vue'
