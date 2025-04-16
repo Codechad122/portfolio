@@ -12,5 +12,12 @@ console.log(feather.icons['shopping-bag'].toSvg())
     <div class="flex-1">
       <a class="btn btn-ghost text-xl"><RouterLink to="/">My Portfolio</RouterLink></a>
     </div>
+    <div class="flex items-center">
+      <ul class="menu menu-horizontal px-1">
+          <div class="flex">
+              <li><RouterLink to="/about">About Me</RouterLink></li>
+          </div>
+      </ul>
+    </div>
   </div>
 </template>
