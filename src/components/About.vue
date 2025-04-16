@@ -1,5 +1,10 @@
 <script setup></script>
 
 <template>
-    I am the about me page
+    <header>
+        <Navbar />
+    </header>
+    <main>
+        I am the about page
+    </main>
 </template>
