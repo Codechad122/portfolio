@@ -11,11 +11,7 @@ import Navbar from './Navbar.vue'
       <div class="w-full bg-green-100 justify-center flex">
         <div class="card bg-green-100 shadow-sm h-96">
           <figure class="px-10 pt-10">
-            <img
-              src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-              alt="Shoes"
-              class="rounded-xl"
-            />
+            <img src="/brew_haven_home_page.jpg" alt="Shoes" class="rounded-xl" />
           </figure>
         </div>
       </div>
