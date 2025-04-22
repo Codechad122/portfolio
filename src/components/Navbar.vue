@@ -14,9 +14,10 @@ console.log(feather.icons['shopping-bag'].toSvg())
     </div>
     <div class="flex items-center">
       <ul class="menu menu-horizontal px-1">
-          <div class="flex">
-              <li><RouterLink to="/about">About Me</RouterLink></li>
-          </div>
+        <div class="flex">
+          <li><RouterLink to="/about">About Me</RouterLink></li>
+          <li><RouterLink to="/contact">Contact</RouterLink></li>
+        </div>
       </ul>
     </div>
   </div>
