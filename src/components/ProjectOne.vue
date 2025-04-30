@@ -8,8 +8,8 @@ import Navbar from './Navbar.vue'
   </header>
   <main class="">
     <div class="mx-auto flex flex-col p-4 gap-4">
-      <div class="w-full bg-green-100 justify-center flex">
-        <div class="card bg-green-100 shadow-sm h-96">
+      <div class="w-full justify-center flex">
+        <div class="card shadow-sm h-96">
           <figure class="px-10 pt-10">
             <img src="/brew_haven_home_page.jpg" alt="Shoes" class="rounded-xl" />
           </figure>

@@ -8,9 +8,11 @@ console.log(feather.icons['shopping-bag'].toSvg())
 </script>
 
 <template>
-  <div class="navbar bg-[#54372B] text-[#F7E1BC] shadow-sm">
+  <div class="navbar bg-[#2A3C2F] text-[#FFFFFF] shadow-sm">
     <div class="flex-1">
-      <a class="btn btn-ghost text-xl"><RouterLink to="/">My Portfolio</RouterLink></a>
+      <a class="btn btn-ghost text-xl"><RouterLink to="/">
+        <img src="/Portfolio_logo.png" class="h-12 rounded-md"/>
+      </RouterLink></a>
     </div>
     <div class="flex items-center">
       <ul class="menu menu-horizontal px-1">

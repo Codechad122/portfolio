@@ -32,8 +32,6 @@ const projects = [
     <Navbar />
   </header>
   <main class="max-w-full mx-auto p-4 flex flex-col">
-    <div class="bg-[#F7E1BC] h-96">image will go here</div>
-    <br />
     <div class="grid grid-cols-3 gap-4">
       <div v-for="i in projects" :key="i.id" class="card bg-base-100 shadow-sm">
         <figure class="px-10 pt-10">
@@ -51,5 +49,5 @@ const projects = [
       </div>
     </div>
   </main>
-  <!-- <Footer /> -->
+  <Footer />
 </template>
