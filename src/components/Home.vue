@@ -61,9 +61,10 @@ const projects = [
       <div class="flex flex-col gap-4 p-4 col-start-auto">
         <h1 class="text-2xl">About Me</h1>
         <p>
-          Nisl arcu, scelerisque neque ut. Tincidunt amet, tempor duis tortor neque auctor dis
-          ipsum. Pretium cras amet odio amet eleifend id sed cras sed. Aliquet risus posuere aliquet
-          imperdiet sit.
+          I believe that good UX design is all about making intuitive and meanigful experiences that
+          helps the user feel empowered. My approach to design is all about research, accessibility,
+          and iteration. This helps to ensure that every design decision helps improve the usability
+          while also helping to maintain the aesthetic appeal.
         </p>
         <button class="btn btn-md rounded-md bg-blue-300">Resume</button>
       </div>
@@ -95,7 +96,6 @@ const projects = [
       <div class="rounded-full w-full place-items-end">
         <img src="/Mini_monsters_logo.png" />
       </div>
-
     </div>
 
     <div class="flex flex-col gap-4">

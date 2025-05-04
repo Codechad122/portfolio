@@ -10,21 +10,30 @@ import Navbar from './Navbar.vue'
     <div class="mx-auto flex flex-col p-4 gap-4">
       <h1 class="text-center text-4xl">Mini Monsters</h1>
       <div class="w-full justify-center flex">
-          <figure class="px-10 pt-10">
-            <img src="/Welcome Screen mini monsters.jpg" alt="Shoes" class="rounded-xl" />
-          </figure>
+        <figure class="px-10 pt-10">
+          <img src="/Welcome Screen mini monsters.jpg" alt="Shoes" class="rounded-xl" />
+        </figure>
       </div>
       <div class="grid grid-cols-2 gap-4">
         <div class="place-items-start">
           <h2 class="text-2xl text-center">Project Overview</h2>
-          <p>I am the description. A small write up about the project will go here</p>
+          <p>
+            Mini Monsters was inspired by Bejeweled. It has a match 3 gameplay but with fun little
+            monsters. The core interaction revolves around quick, intuitive drag-and-drop matching,
+            supported by visually engaging feedback and smooth transitions. Players can activate
+            power-ups for strategic advantages, adding layers of excitement and replayability. A
+            countdown timer drives urgency, challenging users to complete combos within a limited
+            time—creating a fast-paced, engaging experience that encourages repeat play. The UI
+            should clearly communicate remaining time, available power-ups, and combo streaks to
+            keep players immersed and informed.
+          </p>
         </div>
 
-        <div class="place-items-end text-[#ffffff] text-2xl ">
+        <div class="place-items-end text-[#ffffff] text-2xl">
           <div class="flex flex-col gap-4">
             <div class="flex gap-4 justify-between">
               <p>Service</p>
-              <p>Web Design</p>
+              <p>App Design</p>
             </div>
 
             <div class="justify-between place-items-start flex gap-4">
@@ -38,8 +47,13 @@ import Navbar from './Navbar.vue'
             </div>
 
             <div class="flex flex-col gap-4">
-              <p class="text-center">Live Website</p>
-              <button class="bg-[#215900] p-1 rounded-full "><a href="https://www.figma.com/proto/IR0IJSw72cBiSb7jmcw1Sf/Untitled?node-id=42-27224&p=f&viewport=1656%2C1084%2C0.03&t=C1JA33cK4R8Zth1P-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=42%3A27224&show-proto-sidebar=1">Click Here</a></button>
+              <p class="text-center">Live Prototype</p>
+              <button class="bg-[#215900] p-1 rounded-full">
+                <a
+                  href="https://www.figma.com/proto/IR0IJSw72cBiSb7jmcw1Sf/Untitled?node-id=42-27224&p=f&viewport=1656%2C1084%2C0.03&t=C1JA33cK4R8Zth1P-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=42%3A27224&show-proto-sidebar=1"
+                  >Click Here</a
+                >
+              </button>
             </div>
           </div>
         </div>

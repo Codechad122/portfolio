@@ -17,14 +17,22 @@ import Navbar from './Navbar.vue'
       <div class="grid grid-cols-2 gap-4">
         <div class="place-items-start">
           <h2 class="text-2xl text-center">Project Overview</h2>
-          <p>I am the description. A small write up about the project will go here</p>
+          <p>
+            El Toyanese is a vibrant food truck experience designed to celebrate and share authentic
+            Hispanic cuisine with the local community. The project focuses on creating a strong
+            visual identity and user-friendly digital platform to enhance customer engagement and
+            streamline the ordering process. By combining traditional flavors with modern design, it
+            honors cultural heritage while appealing to a broader audience. This project aims to
+            increase brand visibility, build customer loyalty, and support the growth of a
+            community-centered business.
+          </p>
         </div>
 
         <div class="place-items-end text-[#ffffff] text-2xl">
           <div class="flex flex-col gap-4">
             <div class="flex gap-4 justify-between">
               <p>Service</p>
-              <p>Web Design</p>
+              <p>App Design</p>
             </div>
 
             <div class="justify-between place-items-start flex gap-4">
@@ -38,7 +46,7 @@ import Navbar from './Navbar.vue'
             </div>
 
             <div class="flex flex-col gap-4">
-              <p class="text-center">Live Website</p>
+              <p class="text-center">Live Prototype</p>
               <button class="bg-[#215900] p-1 rounded-full">
                 <a
                   href="https://www.figma.com/proto/IR0IJSw72cBiSb7jmcw1Sf/Untitled?node-id=0-1&p=f&viewport=-8252%2C-2562%2C0.5&t=dZfQ2qgiLtSn1YNF-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=126%3A6699&show-proto-sidebar=1"
