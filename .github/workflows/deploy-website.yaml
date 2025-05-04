@@ -31,4 +31,4 @@ jobs:
         run: npm run build
       
       - name: deploy to s3
-        run: aws s3 sync ./dist s3://final-portfolio-website
+        run: aws s3 sync ./dist s3://austynzenner
