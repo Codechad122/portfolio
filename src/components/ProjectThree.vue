@@ -62,7 +62,7 @@ import Navbar from './Navbar.vue'
         <img src="/login_page_1.png" class="rounded-md shadow-md" />
         <img src="/login_page_2.png" class="rounded-md shadow-md" />
         <img src="/best_selling_home_page.png" class="rounded-md shadow-md" />
-        <img src="/Burrito_home_page.jpg" class="rounded-md shadow-md" />
+        <img src="/burrito_home.png" class="rounded-md shadow-md" />
         <img src="/drink_home_page.png" class="rounded-md shadow-md" />
         <img src="/profile_page.png" class="rounded-md shadow-md" />
         <img src="/register_page.png" class="rounded-md shadow-md" />

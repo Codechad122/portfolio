@@ -31,7 +31,9 @@ const projects = [
   <header>
     <Navbar />
   </header>
-  <main class="max-w-full mx-auto p-4 flex flex-col justify-center items-center">
+  <main
+    class="max-w-full mx-auto p-4 flex flex-col justify-center items-center text-[#ffffff] bg-[#333333]"
+  >
     <div class="carousel h-96 w-96 rounded-md bg-slate-200">
       <div
         v-for="(project, idx) in projects"
@@ -70,7 +72,7 @@ const projects = [
       </div>
 
       <div class="rounded-full w-full place-items-end">
-        <img src="/Mini_monsters_logo.png" />
+        <img src="/self_image.jpg" />
       </div>
 
       <div class="flex flex-col gap-4 p-4 col-start-auto">
@@ -80,7 +82,7 @@ const projects = [
       </div>
 
       <div class="rounded-full w-full place-items-end">
-        <img src="/Mini_monsters_logo.png" />
+        <img src="/self_image.jpg" />
       </div>
 
       <div class="flex flex-col gap-4 p-4 col-start-auto">
@@ -94,7 +96,7 @@ const projects = [
       </div>
 
       <div class="rounded-full w-full place-items-end">
-        <img src="/Mini_monsters_logo.png" />
+        <img src="/self_image.jpg" />
       </div>
     </div>
 
