@@ -82,7 +82,7 @@ const projects = [
       </div>
 
       <div class="rounded-full w-full place-items-end">
-        <img src="/self_image.jpg" />
+        <img src="/image_of_me_2.jpg" />
       </div>
 
       <div class="flex flex-col gap-4 p-4 col-start-auto">
@@ -96,7 +96,7 @@ const projects = [
       </div>
 
       <div class="rounded-full w-full place-items-end">
-        <img src="/self_image.jpg" />
+        <img src="/image_of_me_3.jpg" />
       </div>
     </div>
 
