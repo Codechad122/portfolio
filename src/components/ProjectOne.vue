@@ -11,7 +11,7 @@ import Navbar from './Navbar.vue'
       <h1 class="text-center text-4xl">Brew Haven</h1>
       <div class="w-full justify-center flex">
         <figure class="px-10 pt-10">
-          <img src="/brew_haven_home_page.jpg" alt="Shoes" class="rounded-xl" />
+          <img src="/brew_haven_home_page_.jpg" alt="Shoes" class="rounded-xl" />
         </figure>
       </div>
       <div class="grid grid-cols-2 gap-4">

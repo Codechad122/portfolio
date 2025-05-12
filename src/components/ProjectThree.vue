@@ -59,7 +59,7 @@ import Navbar from './Navbar.vue'
       </div>
 
       <div class="grid grid-cols-4 gap-4 place-items-end">
-        <img src="/login_page_1.png" class="rounded-md shadow-md" />
+        <img src="/loin_page_1_png" class="rounded-md shadow-md" />
         <img src="/login_page_2.png" class="rounded-md shadow-md" />
         <img src="/best_selling_home_page.png" class="rounded-md shadow-md" />
         <img src="/burrito_home.png" class="rounded-md shadow-md" />
@@ -73,7 +73,7 @@ import Navbar from './Navbar.vue'
         <img src="/tinga_de_pollo_taco.png" class="rounded-md shadow-md" />
         <img src="/Payment_screen.png" class="rounded-md shadow-md" />
         <img src="/Confirm_payment_screen.png" class="rounded-md shadow-md" />
-        <img src="/thankyou_for_ordering.png" class="rounded-md shadow-md" />
+        <img src="/thankyou_for_ordering_.png" class="rounded-md shadow-md" />
       </div>
     </div>
   </main>
